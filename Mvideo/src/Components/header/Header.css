@@ -1,0 +1,131 @@
+.all_header {
+    background: #ffff;
+    height: 120px;
+    position: sticky;
+    top: 0;
+    font-family: Arial, sans-serif;
+
+}
+
+.header_buttons {
+    background-color: #333333;
+}
+
+.high_header {
+    background: #333333;
+    padding: 12px;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+button {
+    color: white;
+    font-style: normal;
+    font-size: 15px;
+    margin: 0px 15px 0px 4px;
+    background-color: #333333;
+}
+
+button:hover {
+    color: grey;
+    transition: 0.50s;
+
+}
+
+.second_half_button {
+    background: #333333;
+}
+
+.pic {
+    margin: 15px 30px;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.path {
+    background-color: #333333;
+}
+
+svg {
+    background-color: #333333;
+    font-size: 20px;
+    margin: 0 0 -4px 0;
+
+}
+
+.btn_catalog {
+    background-color: #E21235;
+    width: 130px;
+    height: 45px;
+    border-radius: 5px;
+    margin: 0 0 0 0;
+}
+
+.main_header {
+}
+
+button.btn_catalog {
+    margin: 0 30px;
+}
+
+.input_header {
+    padding: 12px 88px 12px 16px;
+    border: 1px solid #bdbdbd;
+    width: 529.22px;
+    border-radius: 5px;
+}
+
+.input_header:hover {
+    border: 1px solid black;
+    transition: 0.7s;
+}
+
+
+::placeholder {
+    color: rgba(61, 60, 60, 0.36);
+    font-size: 15px;
+}
+
+.btn_input {
+    box-sizing: border-box;
+    width: 30px;
+    height: 30px;
+    margin: 0 -35px;
+    color: white;
+    background: #E21235;
+    border-radius: 2px;
+
+}
+
+.btn_status {
+    margin: 0 90px;
+    display: inline-block;
+    background-color: white;
+    color: black;
+}
+
+.btn_entrance {
+    margin: 0 -50px;
+    background-color: white;
+    color: black;
+}
+
+.btn_comparison {
+    margin: 0 90px;
+    background-color: white;
+    color: black;
+}
+
+.btn_favorites {
+    margin: 0 -50px;
+    background-color: white;
+    color: black;
+}
+
+.btn_basket {
+    margin: 0 76px;
+    background-color: white;
+    color: black;
+}
